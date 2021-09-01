@@ -3,7 +3,7 @@ name: "Bikash Kumar Panda"
 nickname: "Bikash"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hey there, I am"
-#image: "D:/Github/BikashPanda.github.io/BikashKrpanda/themes/toha/assets/images/Bikash.png"
+image: "D:/Github/BikashPanda.github.io/BikashKrpanda/resources/_gen/images/Bikash.png"
 
 # give your some contact information. they will be used in the footer
 contactInfo:
